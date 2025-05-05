@@ -7,6 +7,5 @@ I love crafting new stuff and make things happen.
 My interested fields includes:
 
 - Web / GUI / Interactivity / Graphics
-- ML / DL (as an apprentice)
+- ML / DL / AI / Data stuff
 - Cloud Infrasture / IaC / homelab
-- DevOps productivity in general
